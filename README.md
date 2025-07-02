@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Frances.
-- 💞️ I’m interested in Computer Science, Engineering Science, and Liberal Arts.
+- 💞️ I’m interested in Computer Science, Mathematics, and Liberal Arts.
 - 👀 I’m currently learning English and Japanese.
-- 🌱 I'm getting ready for a full-time master's programme in Logistics Engineering and Management starting from Sep 2025.
+- 🌱 I'm getting ready for a full-time master's programme starting from September 2025.
 - 📫 I'm always excited to start a new journey.
 
 <!---
